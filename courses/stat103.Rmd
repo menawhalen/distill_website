@@ -1,0 +1,17 @@
+---
+title: "STAT 103"
+description: |
+  Course Page for Dr. Whalen's STAT 103 class.
+output: 
+  distill::distill_article:
+    self_contained: true
+    df_print: paged
+---
+
+course syllabus: here
+
+Take-Home Test 1: Download zip file
+
+
+
+

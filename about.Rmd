@@ -1,0 +1,35 @@
+---
+title: "About Me"
+image: "images/avatar_image.JPG"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/mena-whalen-07290b174/"
+  - label: Twitter
+    url: "https://twitter.com/MenaWhalen"
+  - label: Academic Website
+    url: "https://www.luc.edu/math/whalenmena.shtml"
+  - label: Email
+    url: "mailto:menawhalen@gmail.com"
+  - label: CV
+    url: CV/CV.pdf
+  
+output:
+  postcards::trestles
+
+---
+## Bio
+I am an assistant professor of statistics in the department of mathematics and statistics at Loyola University Chicago. I received my PhD from Northwestern University in Statistics in 2021 under the advisement of Dr. Noelle I Samia and Dr. Bruce Spencer. I earned my BS from Missouri State University in mathematics with an emphasis in statistics with a minor in computer science in 2016. My research interest includes time series analysis with an emphasis in change point analysis, spatial analysis, data science with data visualization, and network models. Special topic interest includes health policy, law and policy change, and criminology. I am an ambassador and co-organizer of the Women in Data Science (WiDS) conference for Chicago. When I am not doing statistical work, I am playing with my dog Delta, out volunteering in my community, or practicing my artistry with makeup or baking.
+
+## Education
+
+**Northwestern University** | Evanston, IL
+
+Ph.D. in Statistics | September 2016 - August 2021
+
+**Missouri State University** | Springfield, MO
+
+B.S. in Mathematics | Graduated May 2016
+
+## Experience
+
+**Loyola University** | Assistant Professor | August 2021 - Present
