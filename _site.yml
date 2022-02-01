@@ -14,7 +14,7 @@ navbar:
     - text: "About Me"
       href: about.html
     - text: "CV"
-      href: CV/CV.pdf
+      href: CV/current_CV.pdf
     - text: "Research"
       href: research.html
     - text: "Courses"
