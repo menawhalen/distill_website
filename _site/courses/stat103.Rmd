@@ -9,7 +9,7 @@ output:
 ---
 
 
-Course schedule for rest of ![Fall 2021](pdfs/tentative-schedule.pdf)
+Course schedule for rest of ![Fall 2021](../pdfs/tentative-schedule.pdf)
 
 
 
