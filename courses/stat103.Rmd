@@ -8,10 +8,8 @@ output:
     df_print: paged
 ---
 
-course syllabus: here
 
-Take-Home Test 1: Download zip file
-
+Course schedule for rest of ![Fall 2021](../pdfs/tentative-schedule.pdf)
 
 
 
