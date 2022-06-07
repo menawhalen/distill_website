@@ -17,6 +17,8 @@ navbar:
       href: CV/current_CV.pdf
     - text: "Research"
       href: research.html
+    - text: "Family"
+      href: family.html
     - text: "Courses"
       menu:
         - text: "STAT 103"
