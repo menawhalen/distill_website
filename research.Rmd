@@ -1,4 +1,11 @@
 ---
-title: "Research"
-listing: "Research"
+title: "CARE 6-12"
+output: distill::distill_article
 ---
+
+## My Shiny App
+
+Here is my interactive Shiny app embedded below:
+
+<iframe height="800" width="100%" frameborder="no" src="https://menawhalen.shinyapps.io/CARE_6-12_Dashboard/">
+</iframe>
